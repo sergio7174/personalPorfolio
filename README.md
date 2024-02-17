@@ -29,16 +29,16 @@ NODE VERSION: 19.2.0
 ## ✔️ Tecnologias Utilizadas:
 ![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/react%20Bootstrap-%2385C7F2?style=for-the-badge)
-
+![react](https://img.shields.io/badge/react-007ACC?style=for-the-badge&logo=react&logoColor=white)
 
 
 <br>
 ##  Screenshots:
 <br>
-<img src="./projectimages/image01.jpg" alt="project screenshot01" />
-<img src="./projectimages/image02.jpg" alt="project screenshot02" />
-<img src="./projectimages/image03.jpg" alt="project screenshot03" />
-<img src="./projectimages/image04.jpg" alt="project screenshot04" />
+<img src="./serportafoleo/projectimages/image01.jpg" alt="project screenshot01" />
+<img src="./serportafoleo/projectimages/image02.jpg" alt="project screenshot02" />
+<img src="./serportafoleo/projectimages/image03.jpg" alt="project screenshot03" />
+<img src="./serportafoleo/projectimages/image04.jpg" alt="project screenshot04" />
 
 <br>
 
